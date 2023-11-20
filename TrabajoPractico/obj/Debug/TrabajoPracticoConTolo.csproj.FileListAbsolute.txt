@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\bin\Debug\TrabajoPracticoConTolo.exe.config
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\bin\Debug\TrabajoPracticoConTolo.exe
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\bin\Debug\TrabajoPracticoConTolo.pdb
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.Form1.resources
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.exe
+C:\Users\franc\OneDrive\Desktop\UAI\Programacion 2\Clase 1\Proyecto 1\TP con tolo\TrabajoPracticoConTolo\TrabajoPracticoConTolo\obj\Debug\TrabajoPracticoConTolo.pdb
